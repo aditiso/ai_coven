@@ -1,0 +1,17 @@
+
+
+body{background-color: #ff69b4;}
+
+.connect{width: 800px;
+	height: auto;
+	position: fixed;
+border-image-repeat: repeat;}
+
+.narrative{
+width:1000px;
+height: auto;
+mix-blend-mode: multiply;
+position: absolute;
+padding-left: 150px;}
+
+

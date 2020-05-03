@@ -1,0 +1,100 @@
+@font-face{
+	font-family: "baskerville";
+	src:url(../fonts/LibreBaskervilleBold.ttf);
+}
+@font-face{font-family: "meyrin";
+src:url(fonts/Meyrin.ttf);}
+
+@font-face{font-family: "hangthedj";
+src:url(fonts/HANDTHEDJ.ttf);}
+
+body{background-color: #eaff00;
+	
+}
+a{text-decoration: none;}
+
+
+.title{
+	width: 50%;
+	height: auto;
+	top: 0;
+	position: fixed;
+	mix-blend-mode: multiply;
+
+}
+
+#one{
+	mix-blend-mode: multiply;
+	width: 50%;
+	height: auto;
+	padding-left: 800px;
+	padding-top:200px; 
+
+}
+
+#two{
+	font-family: "meyrin";
+	background-color: white;
+	position: absolute;
+	mix-blend-mode: multiply;
+	font-size: 70px;
+	padding-bottom: 50px;
+	padding-left: 500px;
+	padding-right: 100px;
+	-webkit-transform:rotate(-180deg);
+-moz-transform:rotate(-180deg);
+-o-transform:rotate(-180deg);
+transform:rotate(-180deg);
+ms-filter:"progid:DXImageTransform.Microsoft.BasicImage(rotation=2)";
+filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=2);
+
+
+
+}
+
+#three{ 
+	padding-top: 200px;
+	font-size: 50px;
+	padding-left: 70px;
+
+ }
+
+#four{padding-top: 50px;
+	
+	padding-left: 500px;
+	width: 60%;
+	height: auto;
+	
+}
+
+#five{padding-top: 30px;
+	font-size: 50px;
+	padding-left: 70px;
+}
+
+#six{padding-top: 30px;
+	font-size: 70px;
+	padding-left: 160px;
+	
+}
+
+#seven{padding-top: 50px;
+	font-size: 50px;
+	padding-left: 1080px;
+	-moz-transform: scale(-1, 1);
+-webkit-transform: scale(-1, 1);
+-o-transform: scale(-1, 1);
+-ms-transform: scale(-1, 1);
+transform: scale(-1, 1);
+	}
+
+#poem{position: right}
+
+#music{
+}
+.connect{width: 350px;
+	height: auto;
+
+
+}
+
