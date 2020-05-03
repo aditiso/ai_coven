@@ -1,0 +1,14 @@
+body{
+	background-image: url(../images/clouds.jpg);
+
+}
+
+
+.video{
+	height: 200%;
+	width: auto;
+	padding-left: 40%;
+	z-index: 1;
+	padding-top: 30%;
+}
+	
