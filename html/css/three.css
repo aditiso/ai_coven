@@ -1,0 +1,13 @@
+.three{width: 50%;
+height:auto;
+left: 0;
+top:0;
+position: fixed;
+}
+
+ul{text-align: right;
+padding-left:800px;
+padding-top: 500px;
+position: relative;
+font-family: Times;
+line-height: 21px;}
